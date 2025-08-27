@@ -1,0 +1,1 @@
+# fashionlage-static
